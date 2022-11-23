@@ -1,0 +1,30 @@
+.container{
+    background-color: #0369a1;
+    height: 950px;
+    padding-left: 600px;
+    padding-top: 150px;
+}
+
+
+.containerItems{
+    height: 600px;
+    width: 600px;
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+
+.select{
+    width: 300px;
+    height: 30px;
+    font-size: large;
+    text-align: center;
+    margin: 5px;
+}
+form{
+    margin-bottom: 30px;
+}
+.weather{
+    font-size: xx-large;
+    padding-left: 30px;
+}
